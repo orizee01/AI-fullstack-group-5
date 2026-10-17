@@ -13,7 +13,7 @@ This repository is for our Saturday AI Full-Stack session held on **17 October 2
 | Oreoluwa   | Captain | Add your Vercel link | [View Branch](../../tree/oreoluwa)   |
 | Temitope   | Member  | Add your Vercel link | [View Branch](../../tree/temitope)   |
 | Ayomikun   | Member  | Add your Vercel link | [View Branch](../../tree/ayomikun)   |
-| Emmanuella | Member  | Add your Vercel link | [View Branch](../../tree/emmanuella) |
+| Emmanuella | Member | [Live Website](https://about-me-umber-one.vercel.app) | [View Branch](../../tree/Emmanuella) |
 
 *Update the website and branch links with the correct details for each team member.*
 
